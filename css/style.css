@@ -200,7 +200,6 @@ img {
 
 .brush1::before {
     content: "";
-    background: url('../image/brush1.png') no-repeat center;
     background-size: contain;
     position: absolute;
     width: 110%;
@@ -219,7 +218,6 @@ img {
 
 .brush2::before {
     content: "";
-    background: url('../image/brush2.png') no-repeat center;
     background-size: contain;
     position: absolute;
     width: 110%;
@@ -238,7 +236,6 @@ img {
 
 .brush3::before {
     content: "";
-    background: url('../image/brush3.png') no-repeat center;
     background-size: contain;
     position: absolute;
     width: 110%;
@@ -257,7 +254,6 @@ img {
 
 .brush4::before {
     content: "";
-    background: url('../image/brush4.png') no-repeat center;
     background-size: contain;
     position: absolute;
     width: 110%;
@@ -276,7 +272,6 @@ img {
 
 .brush5::before {
     content: "";
-    background: url('../image/brush5.png') no-repeat center;
     background-size: contain;
     position: absolute;
     width: 110%;
